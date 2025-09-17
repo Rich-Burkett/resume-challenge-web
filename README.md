@@ -1,2 +1,2 @@
 # resume-challenge-web
-Code for the resume webpage
+Repository for testing the web-resume in Azure
